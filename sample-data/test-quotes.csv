@@ -1,0 +1,6 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,description,company
+John,Doe,25,"123 Main St, Apt 4B","Second Line","New York",NY,"A software engineer who loves ""coding"" and coffee",TechCorp
+Jane,"Smith-Jones",32,456 Oak Ave,,Los Angeles,CA,"Marketing specialist, very creative person","Design & Co"
+Bob,Johnson,45,"789 Pine Rd, Suite 100",,"Chicago, IL",IL,"Project manager with 10+ years experience",DataSoft
+Alice,Brown,19,321 Elm St,,Houston,TX,"Intern student, passionate about AI","StartupXYZ, Inc"
+Michael,"O'Connor",55,"999 Maple Dr","Apt ""A""",Boston,MA,"Senior consultant, ""expert"" in data analysis","Consulting LLC"

@@ -1,0 +1,5 @@
+name.firstName,name.lastName,age,contact.email,contact.phone.mobile,contact.phone.home,address.line1,address.line2,address.city,address.state,address.zipcode,employment.company,employment.position,employment.salary,gender,hobbies.indoor,hobbies.outdoor
+John,Doe,25,john.doe@email.com,9876543210,0112345678,123 Main St,Apt 4B,New York,NY,10001,TechCorp,Developer,75000,male,reading,hiking
+Jane,Smith,32,jane.smith@email.com,9876543211,0112345679,456 Oak Ave,Suite 2A,Los Angeles,CA,90210,DesignHub,Designer,68000,female,painting,cycling
+Bob,Johnson,45,bob.johnson@email.com,9876543212,0112345680,789 Pine Rd,,Chicago,IL,60601,DataSoft,Manager,95000,male,coding,running
+Alice,Brown,19,alice.brown@email.com,9876543213,0112345681,321 Elm St,Floor 3,Houston,TX,77001,StartupXYZ,Intern,35000,female,music,swimming
